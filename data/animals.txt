@@ -1,0 +1,6 @@
+1, bird, birb, patric, 45.0, good, 45.0, female, 
+6, patrik, LoremIpsumCategory, patric, 45.0, good, 45.0, female, 
+11, bird, birb, patric, 45.0, good, 45.0, female, 
+12, bird12, null, null, null, null, null, null, notes13
+15, dog, canine, Betty, , , , , 
+16, cat, feline, Mike, 2, good, 3, , 
